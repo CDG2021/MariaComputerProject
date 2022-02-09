@@ -1,0 +1,4 @@
+MariaComputerProject ReadMe
+
+1) If you want to use a different file, change the file name in the File multiplyFile = new File("multiply.txt") to your file with the machine code. 
+2) Machine code has to be 4 digits decimal instruction.
